@@ -1,4 +1,4 @@
-### facebook-cracker
+##### facebook-cracker
 Facebook Cracker Version 1.0 can crack into Facebook Database 100% without Interruption By Facebook Firewall
 
 ## This program is for educational purposes only.
@@ -12,7 +12,7 @@ Facebook Cracker Version 1.0 can crack into Facebook Database 100% without Inter
 
 ## Download&Install
 
-## git clone https://github.com/Ha3MrX/facebook-cracker
+## git clone https://github.com/zainkhanceh/facebook-cracker
    
 ## cd facebook-cracker
 
