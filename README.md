@@ -3,7 +3,9 @@ Facebook Cracker Version 1.0 can crack into Facebook Database 100% without Inter
 
 ## This program is for educational purposes only.
 ## Don't attack people facebook accounts it's illegal ! 
-## If you want to crack into someone's account, you must have the permission of the user. ### Mauritania Attacker is not responsible
+## If you want to crack into someone's account, you must have the permission of the user. 
+
+### We is not responsible
 
 ## Whit is a facebook-cracker
 
